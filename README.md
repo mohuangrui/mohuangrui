@@ -1,6 +1,16 @@
-----
-[![Huangrui's github stats](https://github-readme-stats.vercel.app/api?username=mohuangrui&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohuangrui&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohuangrui&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Huangrui Mo's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohuangrui&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+<a href="https://github.com/mohuangrui/ArtraCFD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohuangrui&repo=ArtraCFD&theme=buefy" />
+</a>
+
+<br />
+<br />
+
 <!--
 **mohuangrui/mohuangrui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
