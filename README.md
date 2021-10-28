@@ -4,9 +4,8 @@
 
 #### Top Repositories
 
-<a href="https://github.com/mohuangrui/ArtraCFD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohuangrui&repo=ArtraCFD&theme=buefy" />
-</a>
+| <a href="https://github.com/mohuangrui/ArtraCFD"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohuangrui&repo=ArtraCFD&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/mohuangrui/ucasthesis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohuangrui&repo=ucasthesis&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br />
 <br />
