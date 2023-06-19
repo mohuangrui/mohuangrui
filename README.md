@@ -1,7 +1,3 @@
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohuangrui&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Huangrui Mo's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohuangrui&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 #### Top Repositories
 
 | <a href="https://github.com/mohuangrui/ArtraCFD"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohuangrui&repo=ArtraCFD&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/mohuangrui/ucasthesis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohuangrui&repo=ucasthesis&theme=buefy&hide_border=true" /></a> |
